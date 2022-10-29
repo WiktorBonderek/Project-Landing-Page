@@ -1,0 +1,9 @@
+.wrapper {
+    width: 1000px;
+    margin: auto;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+}
